@@ -4,7 +4,7 @@ Hello! I'm **Akash**, a passionate Data Analyst and aspiring Data Scientist from
 
 ### 🌱 About Me
 - 🎓 Graduated with a BE in Mechanical Engineering.
-- 💼 Transitioned from mechanical engineering to data analytics, currently enhancing my skills in **Machine Learning** and **Deep Learning**.
+- 💼 Transitioned from mechanical engineering to data analytics currently enhancing my skills in **Machine Learning** and **Deep Learning**.
 - 💻 Experienced in Python, SQL, Power BI, and Data Visualization tools.
 - 🌍 I’m excited about exploring data to uncover insights and make impactful decisions!
 
