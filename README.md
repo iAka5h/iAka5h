@@ -16,7 +16,7 @@ Hello! I'm **Akash**, a passionate Data Analyst and aspiring Data Scientist from
 ### 📫 Let's Connect
 Feel free to reach out or follow me:
 - **Name**: [Akash P](mailto:martakash99@gmail.com)
-- **LinkedIn**: [iAka5h](https://linkedin.com/iAka5h)
+- **LinkedIn**: [iAka5h](https://www.linkedin.com/in/iaka5h/)
 - **Instagram**: [the.SkyBlu](https://www.instagram.com/the.skyblu/?hl=en)
 ---
 Thanks for stopping by! Happy coding! 😄
